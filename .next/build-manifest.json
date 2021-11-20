@@ -1,0 +1,32 @@
+{
+  "devFiles": [
+    "static/runtime/react-refresh.js",
+    "static/development/dll/dll_a76d7ffb63db6603914e.js",
+    "static/development/dll/dll_a76d7ffb63db6603914e.js.map"
+  ],
+  "lowPriorityFiles": [
+    "static/development/_buildManifest.js",
+    "static/development/_ssgManifest.js"
+  ],
+  "pages": {
+    "/_app": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
+    "/_error": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
+    "/_polyfills": [
+      "static/runtime/polyfills.js"
+    ],
+    "/login": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
+    "/viewinvoices": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ]
+  }
+}
